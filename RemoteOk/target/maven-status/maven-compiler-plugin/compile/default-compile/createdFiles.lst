@@ -1,0 +1,5 @@
+br/estacio/remoteok/controller/JobController.class
+br/estacio/remoteok/Test.class
+br/estacio/remoteok/model/Job.class
+br/estacio/remoteok/model/User.class
+br/estacio/remoteok/controller/UserController.class
